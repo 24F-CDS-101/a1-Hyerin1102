@@ -25,7 +25,13 @@ output:
 urlcolor: blue
 ---
 
-<!-- Write your Markdown below this line -->
+Changes
+```{r}
+g<-5
+```
+
+
+
 
 
 
